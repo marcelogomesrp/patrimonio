@@ -1,0 +1,9 @@
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\bin\Debug\ControleDePatrimonioWinForms.exe.config
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\obj\Debug\ControleDePatrimonioWinForms.csprojResolveAssemblyReference.cache
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\obj\Debug\ControleDePatrimonioWinForms.Form1.resources
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\obj\Debug\ControleDePatrimonioWinForms.Properties.Resources.resources
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\obj\Debug\ControleDePatrimonioWinForms.csproj.GenerateResource.Cache
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\bin\Debug\ControleDePatrimonioWinForms.exe
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\bin\Debug\ControleDePatrimonioWinForms.pdb
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\obj\Debug\ControleDePatrimonioWinForms.exe
+c:\users\alunos\documents\visual studio 2013\Projects\ControleDePatrimonio\ControleDePatrimonioWinForms\obj\Debug\ControleDePatrimonioWinForms.pdb
